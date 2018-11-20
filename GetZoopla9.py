@@ -1,4 +1,3 @@
-#!/home/solteqso/virtualenv/Python/3.4/bin/python
 import datetime
 import sys
 import string
